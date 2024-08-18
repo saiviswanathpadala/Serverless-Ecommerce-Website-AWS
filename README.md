@@ -22,7 +22,7 @@ In this project, you will build a serverless web application using AWS Lambda, D
 * Create a CloudFront distribution to serve the S3-hosted static files with low latency. \
 * 
 
-### After Hosting on AWS :
+### After Hosting on AWS : (User Count is displayed for every New Entry User)
 ![User Count is displayed for every New Entry User](https://github.com/saiviswanathpadala/Serverless-Ecommerce-Website-AWS/blob/main/Snapshots/UserCount.png)
 
 
