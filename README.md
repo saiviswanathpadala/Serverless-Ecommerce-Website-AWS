@@ -3,8 +3,8 @@
 ## Project Name: Serverless Web Application on AWS
 
 ### Documentation Presentation Slides for Better Unerstanding : 
-https://drive.google.com/file/d/15CkxTVgObDJW20Pc0xcHzA-CQmTyJial/view?usp=drive_link
-https://docs.google.com/presentation/d/1uli3LJ2zg3rSJthX2EMBAYBy-V4lvhaq/edit?usp=sharing&ouid=100258873129509465941&rtpof=true&sd=true
+Documentation : https://drive.google.com/file/d/15CkxTVgObDJW20Pc0xcHzA-CQmTyJial/view?usp=drive_link
+Slides        : https://docs.google.com/presentation/d/1uli3LJ2zg3rSJthX2EMBAYBy-V4lvhaq/edit?usp=sharing&ouid=100258873129509465941&rtpof=true&sd=true
 
 ### Project Description:
 
