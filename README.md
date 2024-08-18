@@ -21,8 +21,8 @@ In this project, you will build a serverless web application using AWS Lambda, D
 * Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript). 
 * Create a CloudFront distribution to serve the S3-hosted static files with low latency. 
 
-### After Hosting on AWS : (User Count is displayed for every New Entry User)
-![User Count is displayed for every New Entry User](https://github.com/saiviswanathpadala/Serverless-Ecommerce-Website-AWS/blob/main/Snapshots/UserCount.png)
+### After Hosting on AWS : (User Count is displayed for every New User Entry)
+![User Count is displayed for every New User Entry](https://github.com/saiviswanathpadala/Serverless-Ecommerce-Website-AWS/blob/main/Snapshots/UserCount.png)
 
 
 ### Expected Outcome:
