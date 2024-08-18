@@ -15,7 +15,7 @@ In this project, you will build a serverless web application using AWS Lambda, D
 ![Serverless Web Application on AWS Architecture](https://user-images.githubusercontent.com/66474973/228492073-5cd3d975-3439-4ce4-b109-fb33997df3c3.png)
 
 ### After Hosting on AWS 
-![User Count is displayed for every New Entry User]https://github.com/saiviswanathpadala/Serverless-Ecommerce-Website-AWS/blob/main/Snapshots/UserCount.png
+![User Count is displayed for every New Entry User](https://github.com/saiviswanathpadala/Serverless-Ecommerce-Website-AWS/blob/main/Snapshots/UserCount.png)
 
 ### Steps to Build the Project:
 
