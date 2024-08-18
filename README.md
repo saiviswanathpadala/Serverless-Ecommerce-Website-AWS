@@ -14,15 +14,17 @@ In this project, you will build a serverless web application using AWS Lambda, D
 
 ![Serverless Web Application on AWS Architecture](https://user-images.githubusercontent.com/66474973/228492073-5cd3d975-3439-4ce4-b109-fb33997df3c3.png)
 
-### After Hosting on AWS 
-![User Count is displayed for every New Entry User](https://github.com/saiviswanathpadala/Serverless-Ecommerce-Website-AWS/blob/main/Snapshots/UserCount.png)
-
 ### Steps to Build the Project:
 
 * Create a DynamoDB table to store the items. \
 * Build a Lambda function to handle the CRUD operations on the DynamoDB table. \
 * Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript). \
 * Create a CloudFront distribution to serve the S3-hosted static files with low latency. \
+* 
+
+### After Hosting on AWS :
+![User Count is displayed for every New Entry User](https://github.com/saiviswanathpadala/Serverless-Ecommerce-Website-AWS/blob/main/Snapshots/UserCount.png)
+
 
 ### Expected Outcome:
 
