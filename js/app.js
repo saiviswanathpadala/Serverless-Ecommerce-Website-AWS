@@ -88,6 +88,17 @@ let products = {
   ],
 };
 
+
+const counter = document.querySelector(".counter-number");
+async function updateCounter() {
+    let response = await fetch(
+        "https://mbkjsz64ndonq7xtdv43oigve40utebr.lambda-url.us-east-1.on.aws/"
+    );
+    let data = await response.json();
+    counter.innerHTML = `Views: ${data}`;
+}
+updateCounter();
+
 for (let i of products.data) {
   //   console.log(i);
 
@@ -173,3 +184,4 @@ heartBtns.forEach((icon) => {
     icon.classList.toggle("bxs-heart");
   });
 });
+
